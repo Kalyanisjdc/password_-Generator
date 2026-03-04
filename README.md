@@ -4,16 +4,17 @@ This is a Command-Line based Random Password Generator developed using Python. T
 
 Features :
 User-defined password length
+
 Option to include:
-Letters (A–Z, a–z)
-Numbers (0–9)
-Symbols (!, @, #, etc.)
-Input validation for correct length
+Letters (A–Z, a–z),
+Numbers (0–9),
+Symbols (!, @, #, etc.),
+Input validation for correct length,
 Random password generation using Python modules
 
 Technologies Used :
-Python
-random module
+Python,
+random module,
 string module
 
 How It Works :
